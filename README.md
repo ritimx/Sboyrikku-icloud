@@ -1,8 +1,9 @@
 
 # 💫 About Me:
-# Google Devloper Group GDG <br>
+
 🔭 I’m currently working on web development project.<br>👯 I’m looking to collaborate on GitHub with other developers.<br>🌱 I’m currently learning Figma.<br>💬 Ask me about VAPT, Cryptography, Dev. and UI<br>⚡ Fun fact about cyber security - The first computer virus, known as the "Creeper" virus, was created in 1971 by a programmer named Bob Thomas.
 
+# Google Devloper Group GDG  Lead<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sboyrikku) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ritimsboy) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Sboyrikku) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sboyrikku) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Sboy-Rikku) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/sboyrikku) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sboyrikku) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sbOyrikku) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Sboyrikku) 

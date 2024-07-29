@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development project.<br>👯 I’m looking to collaborate on GitHub with other developers.<br>🌱 I’m currently learning Google Cyber Certification.<br>💬 Ask me about VAPT, Cyber Forensic, Cyber Investigation.
+🔭 I’m currently working on web development project.<br>👯 I’m looking to collaborate on GitHub with other developers.<br>🌱 I’m currently learning Google Cyber Certification.<br>💬 Ask me about VAPT.
 
 
 ## 🌐 Socials:
